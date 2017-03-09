@@ -18,7 +18,7 @@ A) average number of vacant housing units
 
 B) median of vacant housing units
 
-B) range of vacant housing units 
+C) range of vacant housing units 
 
-C) standard deviation of vacant housing units
+D) standard deviation of vacant housing units
 
