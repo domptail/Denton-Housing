@@ -1,6 +1,6 @@
 # Denton-Housing
 
-This was a project posted on Freelancer.com on 3/8/2017.
+This project was posted on Freelancer.com on 3/8/2017.
 
 The instructions were:
 
