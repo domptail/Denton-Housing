@@ -1,4 +1,4 @@
-# Denton-Housing
+# Denton Housing
 
 This project was posted on Freelancer.com on 3/8/2017.
 
